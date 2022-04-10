@@ -4,14 +4,15 @@
   publish = "build" # create-react-app builds to this folder, Netlify should serve all these files statically temp
   
    
+ 
 [[redirects]]
   from = "/blog/*"
-  to = "https://testblog.superblog.cloud/:splat"
+  to = "https://nnnnnnn.superblog.cloud/:splat"
   status = 200
 
 [[redirects]]
   from = "/_elderjs/*"
-  to = "https://testblog.superblog.cloud/_elderjs/:splat"
+  to = "https://nnnnnnn.superblog.cloud/_elderjs/:splat"
   status = 200 
 
 [[redirects]]
