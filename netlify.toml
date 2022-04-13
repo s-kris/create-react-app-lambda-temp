@@ -6,12 +6,12 @@
  
 [[redirects]]
   from = "/blog/*"
-  to = "https://nnnnnnn.superblog.cloud/:splat"
+  to = "https://llamalife.superblog.cloud/:splat"
   status = 200
 
 [[redirects]]
   from = "/_elderjs/*"
-  to = "https://nnnnnnn.superblog.cloud/_elderjs/:splat"
+  to = "https://llamalife.superblog.cloud/_elderjs/:splat"
   status = 200 
 
 [[redirects]]
